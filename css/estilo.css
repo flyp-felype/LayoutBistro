@@ -1,0 +1,71 @@
+.userView
+{
+  background: url('../images/background.jpg') no-repeat center center;
+
+}
+img.img-logo
+{
+      max-height: 160px;
+}
+
+.card .card-content
+{
+  border-bottom: 1px dashed #727272;
+  padding-bottom: 10px !important;
+  padding-top: 0 !important;
+  padding-left: 10px !important;
+  padding-right: 10px  !important;
+  width: 90%;
+margin: 0 auto;
+}
+ .card .card-action
+ {
+   padding:10px!important;
+   text-transform:inherit !important;
+ }
+
+  .card .card-action a:not(.btn):not(.btn-large):not(.btn-floating){
+       text-transform:inherit !important;
+  }
+.sub-action
+{
+  margin-top: 10px;
+  font-weight: bold
+}
+.card-action .row
+{
+  margin-bottom: 0px !important
+}
+nav .brand-logo
+{
+      font-size: 1.5rem !important;
+}
+
+
+/* layout da home */
+.item-menu-home {
+  max-height: 100px;
+  height: 100px;
+  width: 100%;
+  color:#FFF;
+  font-weight: bold;
+  font-size: 1.8rem;
+  text-align: center;
+}
+.menu
+{
+  background: #BD84D6
+}
+.reserva
+{
+  background: #F3BB71
+}
+.bebidas
+{
+  background: #7BECED
+}
+.contato
+{
+    background: #33564D
+
+}
